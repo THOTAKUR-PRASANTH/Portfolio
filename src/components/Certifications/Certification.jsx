@@ -11,6 +11,7 @@ import Computer_Vision from "../../Assets/Certificates/Computer Vision.jpeg";
 import Introduction_To_Internet_Of_Things from "../../Assets/Certificates/Introduction To Internet Of Things.jpeg";
 import Problem_Solving_Through_Programming_In_C from "../../Assets/Certificates/Problem Solving Through Programming In C.jpeg";
 import Principles_of_Management from "../../Assets/Certificates/Principles of Management.jpeg";
+import oracle_certification from "../../Assets/Certificates/Oracle_Certificate.jpeg";
 
 
 const certificatesData = [
@@ -23,6 +24,7 @@ const certificatesData = [
   { id: 7, title: "Introduction To Internet Of Things", img: Introduction_To_Internet_Of_Things },
   { id: 8, title: "Problem Solving Through Programming In C", img: Problem_Solving_Through_Programming_In_C },
   { id: 9, title: "Principles of Management", img: Principles_of_Management },
+  { id : 10, title: " Oracle Cloud Infrastructure 2024 Generative AI Certified Professional", img: oracle_certification }
 ];
 
 function Certification() {
