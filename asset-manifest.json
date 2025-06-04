@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.1def10e8.css",
-    "main.js": "/Portfolio/static/js/main.a5ba685e.js",
+    "main.css": "/Portfolio/static/css/main.1a0b819a.css",
+    "main.js": "/Portfolio/static/js/main.a9cbc50d.js",
     "static/js/415.4d6acbeb.chunk.js": "/Portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/Principles of Management.jpeg": "/Portfolio/static/media/Principles of Management.6c8483975b8c94a3eb93.jpeg",
@@ -11,6 +11,7 @@
     "static/media/emotion.png": "/Portfolio/static/media/emotion.eabfc16e7a146ab15778.png",
     "static/media/suicide.png": "/Portfolio/static/media/suicide.9c86cd7138a398c45fa5.png",
     "static/media/TCS Codevita Season 12 Global Rank Holder.jpg": "/Portfolio/static/media/TCS Codevita Season 12 Global Rank Holder.1b6d10fcc0881559c7a2.jpg",
+    "static/media/Oracle_Certificate.jpeg": "/Portfolio/static/media/Oracle_Certificate.62c11130656bfa5694f0.jpeg",
     "static/media/prashanth_jesus _Dora.pdf": "/Portfolio/static/media/prashanth_jesus _Dora.66f78c7a2880f94882f9.pdf",
     "static/media/Cyber Security and Privacy.jpeg": "/Portfolio/static/media/Cyber Security and Privacy.5ff204add020ae518b09.jpeg",
     "static/media/E-Business.jpeg": "/Portfolio/static/media/E-Business.823501a6f803a89ed45a.jpeg",
@@ -26,13 +27,13 @@
     "static/media/avatar.svg": "/Portfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
     "static/media/pre.svg": "/Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/Portfolio/index.html",
-    "main.1def10e8.css.map": "/Portfolio/static/css/main.1def10e8.css.map",
-    "main.a5ba685e.js.map": "/Portfolio/static/js/main.a5ba685e.js.map",
+    "main.1a0b819a.css.map": "/Portfolio/static/css/main.1a0b819a.css.map",
+    "main.a9cbc50d.js.map": "/Portfolio/static/js/main.a9cbc50d.js.map",
     "415.4d6acbeb.chunk.js.map": "/Portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1def10e8.css",
-    "static/js/main.a5ba685e.js"
+    "static/css/main.1a0b819a.css",
+    "static/js/main.a9cbc50d.js"
   ]
 }
