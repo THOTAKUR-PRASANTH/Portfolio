@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.74358e9b.css",
-    "main.js": "/static/js/main.596460a5.js",
+    "main.js": "/static/js/main.d08883ff.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/Principles of Management.jpeg": "/static/media/Principles of Management.6c8483975b8c94a3eb93.jpeg",
@@ -12,7 +12,7 @@
     "static/media/suicide.png": "/static/media/suicide.9c86cd7138a398c45fa5.png",
     "static/media/TCS Codevita Season 12 Global Rank Holder.jpg": "/static/media/TCS Codevita Season 12 Global Rank Holder.1b6d10fcc0881559c7a2.jpg",
     "static/media/Oracle_Certificate.jpeg": "/static/media/Oracle_Certificate.62c11130656bfa5694f0.jpeg",
-    "static/media/prashanth_jesus _Dora.pdf": "/static/media/prashanth_jesus _Dora.66f78c7a2880f94882f9.pdf",
+    "static/media/prashanth_jesus _Dora.pdf": "/static/media/prashanth_jesus _Dora.4c123832ec4cf63644fb.pdf",
     "static/media/Cyber Security and Privacy.jpeg": "/static/media/Cyber Security and Privacy.5ff204add020ae518b09.jpeg",
     "static/media/E-Business.jpeg": "/static/media/E-Business.823501a6f803a89ed45a.jpeg",
     "static/media/codeEditor.png": "/static/media/codeEditor.1b585492490c8c1cace9.png",
@@ -28,12 +28,12 @@
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.74358e9b.css.map": "/static/css/main.74358e9b.css.map",
-    "main.596460a5.js.map": "/static/js/main.596460a5.js.map",
+    "main.d08883ff.js.map": "/static/js/main.d08883ff.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.74358e9b.css",
-    "static/js/main.596460a5.js"
+    "static/js/main.d08883ff.js"
   ]
 }
