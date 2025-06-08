@@ -12,6 +12,7 @@ import Introduction_To_Internet_Of_Things from "../../Assets/Certificates/Introd
 import Problem_Solving_Through_Programming_In_C from "../../Assets/Certificates/Problem Solving Through Programming In C.jpeg";
 import Principles_of_Management from "../../Assets/Certificates/Principles of Management.jpeg";
 import oracle_certification from "../../Assets/Certificates/Oracle_Certificate.jpeg";
+import CertificateOfCompletion_Linux from "../../Assets/Certificates/CertificateOfCompletion_Linux CentOS 7 Overview and Installation.jpeg";
 
 
 const certificatesData = [
@@ -20,11 +21,12 @@ const certificatesData = [
   { id : 3, title: " Oracle Cloud Infrastructure 2024 Generative AI Certified Professional", img: oracle_certification },
   { id: 4, title: "Internship Certificate", img: Internship_Certificate },
     { id: 5, title: "Problem Solving Through Programming In C", img: Problem_Solving_Through_Programming_In_C },
-     { id: 6, title: "Cyber Security and Privacy", img: Cyber_Security_and_Privacy },
-  { id: 7, title: "E-Business", img: E_Business },
-  { id: 8, title: "Computer Vision", img: Computer_Vision },
-  { id: 9, title: "Introduction To Internet Of Things", img: Introduction_To_Internet_Of_Things },
-  { id: 10, title: "Principles of Management", img: Principles_of_Management },
+    { id: 6, title: "CertificateOfCompletion Linux CentOS 7 Overview and Installation", img: CertificateOfCompletion_Linux  },
+     { id: 7, title: "Cyber Security and Privacy", img: Cyber_Security_and_Privacy },
+  { id: 8, title: "E-Business", img: E_Business },
+  { id: 9, title: "Computer Vision", img: Computer_Vision },
+  { id: 10, title: "Introduction To Internet Of Things", img: Introduction_To_Internet_Of_Things },
+  { id: 11, title: "Principles of Management", img: Principles_of_Management },
   
 ];
 
@@ -74,7 +76,7 @@ function Certification() {
               className="modal-close"
               aria-label="Close"
             >
-              &times;
+             x
             </button>
             <h3 className="modal-title">{modalCert.title}</h3>
             <img

@@ -11,7 +11,7 @@
 }
 
 .certification-title {
-  font-size: 2.1rem;
+  font-size: 1.5rem;
   font-weight: 700;
   text-align: center;
   margin-bottom: 3rem;
@@ -50,7 +50,7 @@
 }
 
 .certificate-title {
-  font-size: 1.25rem;
+  font-size: 1.20rem;
   color: #dcdcdc;
   text-align: center;
 }
@@ -81,14 +81,16 @@
   position: absolute;
   top: 1rem;
   right: 1rem;
-  color: white;
-  font-size: 2rem;
+  color: red;
+  font-size: 15px;
+  border-radius:6px;
   cursor: pointer;
   transition: color 0.3s;
 }
 
 .modal-close:hover {
-  color: #e74c3c;
+  color: red;
+  border-radius:50% 50% 50% 50%;
 }
 
 .modal-title {

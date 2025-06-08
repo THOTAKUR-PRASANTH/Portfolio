@@ -1,0 +1,73 @@
+.profile-container {
+  position: relative;
+  width: 56px;
+  height: 56px;
+}
+
+.profile-image {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  z-index: 2;
+  padding: 3px;
+  background: white;
+  box-sizing: content-box;
+  object-fit: cover;
+  display: block;
+  position: relative;
+}
+
+.glow-ring {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  z-index: 1;
+  pointer-events: none;
+  animation: pulseGlow 3.5s ease-in-out infinite;
+  box-shadow:
+    0 0 5px 1.5px #7f5af0,
+    0 0 10px 3px #00d2ff,
+    inset 0 0 4px 1.5px #7f5af0;
+}
+
+@keyframes pulseGlow {
+  0%, 100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+  50% {
+    transform: scale(1.05);
+    opacity: 0.85;
+  }
+}
+
+@media (max-width: 576px) {
+  .profile-container {
+    width: 45px;
+    height: 45px;
+  }
+
+  .profile-image {
+    width: 40px;
+    height: 40px;
+  }
+
+  .glow-ring {
+    width: 45px;
+    height: 45px;
+  }
+}
+
+/* Optional: Style Navbar (light/dark) */
+.navbar {
+  background-color: transparent;
+  transition: all 0.3s ease-in-out;
+}
+
+.sticky {
+  background-color: #0d1117;
+  transition: all 0.3s ease-in-out;
+}
