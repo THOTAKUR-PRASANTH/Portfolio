@@ -36,12 +36,7 @@ function NavBar() {
       className={navColour ? "sticky" : "navbar"}
     >
       <Container fluid>
-        <div className="d-flex align-items-center">
-          <div className="profile-container me-3">
-            <img src={myImage} alt="profile" className="profile-image" />
-            <span className="glow-ring" aria-hidden="true"></span>
-          </div>
-        </div>
+        
 
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"
@@ -68,7 +63,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="https://prashanth.me/"
+                href="/project"
                 target="_blank"
                 rel="noreferrer"
                 onClick={() => updateExpanded(false)}
