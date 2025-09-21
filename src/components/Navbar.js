@@ -62,10 +62,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="/project"
-                target="_self"
-                rel="noreferrer"
-                onClick={() => updateExpanded(false)}
+                as={Link} to="/project" onClick={() => updateExpanded(false)}
               >
                 <AiOutlineFundProjectionScreen style={{ marginBottom: "2px" }} /> Projects
               </Nav.Link>
