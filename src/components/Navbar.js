@@ -12,7 +12,6 @@ import {
   AiOutlineFundProjectionScreen,
   AiOutlineUser,
 } from "react-icons/ai";
-import myImage from "../Assets/my2.png";
 import "./Navbar.css"; 
 
 function NavBar() {
@@ -64,7 +63,7 @@ function NavBar() {
             <Nav.Item>
               <Nav.Link
                 href="/project"
-                target="_blank"
+                target="_self"
                 rel="noreferrer"
                 onClick={() => updateExpanded(false)}
               >
