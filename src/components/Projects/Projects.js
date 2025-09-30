@@ -8,7 +8,7 @@ import tagSyncImg from "../../Assets/Projects/tagsync.jpeg";
 import skillswapImg from "../../Assets/Projects/skillswap.jpeg";
 import hmsImg from "../../Assets/Projects/hms.jpg";
 import ageCalcImg from "../../Assets/Projects/age-calculator.jpeg";
-import weatherImg from "../../Assets/Projects/weather.jpeg";
+import notesImg from "../../Assets/Projects/notes.jpeg";
 
 function Projects() {
   const projects = [
@@ -42,6 +42,18 @@ function Projects() {
       demoLink: "", 
     },
 
+
+    {
+  imgPath: notesImg,
+  isBlog: false,
+  title: "Notes App",
+  description:
+    "A sleek, responsive Notes App built with Next.js and Tailwind CSS to streamline daily class note sharing with students. Designed for clarity and accessibility, it features Python-friendly fonts, subtle animations, and a modular structure for easy content updates. Ideal for educators and learners alike, the app reflects a modern UI approach and thoughtful UX design.",
+  ghLink: "https://github.com/THOTAKUR-PRASANTH/notes",
+  demoLink: "https://notes-orpin-five.vercel.app/",
+}
+
+,
     {
       imgPath: ageCalcImg,
       isBlog: false,
@@ -52,15 +64,7 @@ function Projects() {
       demoLink: "https://age.prashanth.me/",
     },
 
-    {
-      imgPath: weatherImg,
-      isBlog: false,
-      title: "Weather App",
-      description:
-        "A weather application that fetches live weather data from a public API and displays current conditions, hourly forecast, and basic location search. Built with modern frontend tooling and responsive design.",
-      ghLink: "", 
-      demoLink: "http://weather.prashanth.me/", 
-    },
+    
   ];
 
   return (

@@ -82,7 +82,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="https://prashanth.me/"
+                href="https://prashanth.app/"
                 target="_blank"
                 rel="noreferrer"
               >
