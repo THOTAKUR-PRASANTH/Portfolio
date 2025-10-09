@@ -8,28 +8,38 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Prashanth Chowdari </span>
-            from <span className="purple"> Telangana, India.</span>
+            Hi Everyone, I’m <span className="purple">Prashanth Chowdari</span> from
+            <span className="purple"> Telangana, India.</span>
             <br /> <br />
-            I am a recent B.Tech graduate with an offer from Tata Consultancy Services (TCS) for the role of System Engineer.
+            I’m currently working as a <span className="purple">System Engineer at Tata Consultancy Services (TCS)</span>,
+            where I contribute to building and maintaining scalable enterprise-level applications.
             <br /> <br />
-           While preparing to join TCS, I am actively engaged in a real-time ERP (Enterprise Resource Planning) project under my college's IT team. 
-           This hands-on experience involves working on software solutions tailored for university operations, such as student management, 
-           admissions, attendance, and staff coordination.
+            Alongside my professional role, I’m also a passionate 
+            <span className="purple"> freelance full-stack developer</span>, 
+            helping clients and startups build reliable and modern web applications using
+            <span className="purple"> Spring Boot</span> and the <span className="purple">MERN stack</span>.
             <br /> <br />
-            Through this project, I am enhancing my skills in full-stack development, collaborating with a technical team, 
-            and contributing to software that directly impacts administrative efficiency at the institutional level. 
-            This opportunity is helping me bridge the gap between academic knowledge and real-world application, 
-            making me industry-ready even before my formal onboarding.
-            <br /><br />
-            Apart from coding, some other activities that I love to do!
+            I enjoy translating real-world problems into clean, efficient code and creating
+            digital solutions that truly make an impact. 
+            I’m always open to collaborating on meaningful projects — whether it’s for innovation,
+            learning, or community contribution.
+            <br /> <br />
+            You can explore my freelance work and connect with me on Fiverr here:{" "}
+            <a
+              href="https://www.fiverr.com/prashanth_312/develop-full-stack-web-apps-using-mern-and-spring-boot"
+              target="_blank"
+              rel="noreferrer"
+              className="purple"
+            >
+              Fiverr Profile
+            </a>
+            .
+            <br /> <br />
+            Apart from coding, some other activities that I love to do:
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
-            </li>
-            <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs
+              <ImPointRight /> Playing Games(Pubg)
             </li>
             <li className="about-activity">
               <ImPointRight /> Travelling
@@ -37,7 +47,7 @@ function AboutCard() {
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+            "Code with passion. Build with purpose. Deliver with impact."
           </p>
           <footer className="blockquote-footer">Prashanth Chowdari</footer>
         </blockquote>

@@ -1,0 +1,36 @@
+/* Home Section */
+.home-section {
+  position: relative;
+  min-height: 100vh;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: transparent;
+}
+
+/* Particle background should stay behind everything */
+.tsparticles-canvas-el,
+canvas {
+  position: absolute !important;
+  top: 0;
+  left: 0;
+  width: 100% !important;
+  height: 100% !important;
+  z-index: 0 !important;
+}
+
+/* Home text content stays above particles */
+.home-content {
+  position: relative;
+  z-index: 2 !important;
+  color: white;
+  text-align: left;
+  padding-top: 100px;
+}
+
+/* Optional — make sure next sections stack properly */
+section {
+  position: relative;
+  z-index: 1;
+}
