@@ -28,7 +28,7 @@ function Projects() {
       description:
         "SkillSwap is an AI-powered peer learning platform that connects users through skill-based exchanges. Leveraging machine learning algorithms, it intelligently matches individuals with complementary skills and learning goals. Built with the MERN stack, the platform features secure authentication, real-time chat, and a feedback system to foster trust and collaboration in a dynamic learning environment.",
       ghLink: "",
-      demoLink: "https://qrlostly.tech/",
+      demoLink: "https://skills-wap-app.vercel.app/",
     },
     {
       imgPath: hmsImg,
@@ -64,7 +64,7 @@ function Projects() {
       description:
         "A small utility app to calculate age from birthdate with a clean UI and validation. Includes features such as years/months/days breakdown and handling of edge cases (leap years, timezone).",
       ghLink: "",
-      demoLink: "https://age.prashanth.me/",
+      demoLink: "https://thotakur-prasanth.github.io/age/",
     },
   ];
 
