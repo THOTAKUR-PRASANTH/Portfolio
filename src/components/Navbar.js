@@ -11,7 +11,7 @@ import {
   AiOutlineHome,
   AiOutlineFundProjectionScreen,
   AiOutlineUser,
-  AiEducation
+
 } from "react-icons/ai";
 import "./Navbar.css"; 
 
